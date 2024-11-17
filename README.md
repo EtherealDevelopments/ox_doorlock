@@ -114,7 +114,7 @@ end)
 # Previews 
 
 - Locked Door
-![image](https://cdn.discordapp.com/attachments/640330555119894548/1247309887273435260/image.png?ex=665f8f5b&is=665e3ddb&hm=83183eb193970300537963b919640a3f1ecd02a435df47f5821b6d8268fd9dfc&)
+![image](https://cdn.discordapp.com/attachments/1302792653737562194/1307627283434967071/two.png?ex=6)
 
 - Unlocked Door
-![image](https://cdn.discordapp.com/attachments/640330555119894548/1247309909687795772/image.png?ex=666189a0&is=66603820&hm=438f46e6b0a7e47884a4400871325017efbcf620930264779618c7b18965ed18&)
+![image](https://cdn.discordapp.com/attachments/1302792653737562194/1307627284118900736/one.png?ex=673afe)
